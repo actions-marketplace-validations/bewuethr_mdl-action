@@ -6,6 +6,6 @@ changelog:
       exclude:
         labels:
           - dependencies
-    - title: 'GitHub Actions dependencies :shipit:'
+    - title: 'Dependencies :shipit:'
       labels:
         - dependencies
