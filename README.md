@@ -96,6 +96,9 @@ will fetch `v1.1.2`. The advantage of using just `@v1` is that minor releases
 and patches are included without requiring a change; the advantage of using
 `@v1.1.2` is knowing that the action does 100% the same thing every time.
 
+Releases of the action are [immutable], starting with v1.2.3.
+
 This is done via the [release-tag-tracker][rtt] action.
 
+[immutable]: <https://docs.github.com/en/code-security/concepts/supply-chain-security/immutable-releases>
 [rtt]: <https://github.com/marketplace/actions/release-tag-tracker>
